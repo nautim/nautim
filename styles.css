@@ -1,3 +1,11 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Global styles */
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -36,18 +44,17 @@ header h1 {
 .menu ul li a {
     color: #fff;
     text-decoration: none;
-    font-size: 35px;
+    font-size: 20px;
 }
 
 main {
     padding: 20px;
-    text-align: center; /* Center aligns the content inside the <main> element */
+    text-align: center;
 }
 
-/* Footer styles */
 footer {
-    background-color: #333; /* Set the background color of the footer */
-    color: #fff; /* Set the text color of the footer */
-    padding: 20px; /* Add padding to the footer */
-    text-align: center; /* Center-align the text within the footer */
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
 }
