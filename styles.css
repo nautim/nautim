@@ -47,6 +47,10 @@ header h1 {
     font-size: 20px;
 }
 
+.menu ul li a.active {
+    color: #3498db; /* Change color for active link */
+}
+
 main {
     padding: 20px;
     text-align: center;
