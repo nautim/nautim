@@ -19,10 +19,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-header nav {
-    margin-right: 4cm; /* Create a 4cm margin on the right side of the header */
+    margin-right: 4cm;
     margin-left: 4cm;
 }
 
