@@ -8,6 +8,8 @@
 /* Global styles */
 body {
     margin: 0;
+    margin-right: 4cm;
+    margin-left: 4cm;
     font-family: Arial, sans-serif;
     background-color: #f8f8f8;
 }
@@ -19,8 +21,6 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-right: 4cm;
-    margin-left: 4cm;
 }
 
 header h1 {
